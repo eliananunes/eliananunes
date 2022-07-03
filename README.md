@@ -1,6 +1,9 @@
 <h1 align="center">Olá 👋, meu nome é Eliana</h1>
 <h3 align="center">Uma apaixonada por Desenvolvimento Web.</h3>
 
+<a href="https://github.com/eliananunes/eliananunes">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=eliananunes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elianadn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elianadn" height="30" width="40" /></a>
