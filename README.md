@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Meu nome é Eliana</h1>
+<h1 align="center">Olá 👋, meu nome é Eliana</h1>
 <h3 align="center">Uma apaixonada por Desenvolvimento Web.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
