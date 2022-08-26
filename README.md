@@ -2,7 +2,7 @@
   <h1 align="center">Olá 👋, meu nome é Eliana</h1>
   <h3 align="center">Uma apaixonada por Desenvolvimento Web.</h3>
   <p>- 👩‍💻 Professora na BYJU'S FutureSchool Brasil</p>
-  <p>- ⚡  Outros interesses: desenho, pintura, filmes, séries, yoga e viagens.</p>
+  <p>- ⚡  Outros interesses: desenho, pintura, filmes, séries, yoga, tecido acrobático e viagens.</p>
   <p>- 💬 Estou disponível para conversar sobre: desenvolvimento web, hobbies e etc.😊</p>
 </div>
 
